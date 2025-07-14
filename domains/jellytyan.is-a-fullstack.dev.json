@@ -1,0 +1,13 @@
+{
+  "description": "My portfolio site",
+  "domain": "is-a-fullstack.dev",
+  "subdomain": "jellytyan",
+  "owner": {
+    "repo": "https://github.com/JellyTyan",
+    "email": "lycomilopster@gmail.com"
+  },
+  "record": {
+    "A": ["89.58.32.226"]
+  },
+  "proxied": false
+}
